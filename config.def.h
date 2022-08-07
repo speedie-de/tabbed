@@ -5,7 +5,7 @@
  * Check the 'man' page if you're unsure how to use tabbed.
  */
 
-static char font[]              = "Terminus:size=8";
+static char font[]              = "NotoSans-Regular:size=8";
 static char* normbgcolor        = "#222222";
 static char* normfgcolor        = "#cccccc";
 static char* selbgcolor         = "#222222";
